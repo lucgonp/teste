@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f4f4;
+}
+
+.container {
+  text-align: center;
+}
+
+nav {
+  background: #6200ee;
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin: 0 1rem;
+  text-decoration: none;
+}
+
+nav a.active {
+  font-weight: bold;
+  border-bottom: 2px solid white;
+}
+
+.screen {
+  padding: 2rem;
+}
